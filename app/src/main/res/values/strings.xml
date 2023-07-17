@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DAM_Examen_Final_Parillo</string>
+    <string name="inicio">Login</string>
+    <string name="txt_correo" />
+    <string name="contraseña" />
+    <string name="btn_login">INGRESAR</string>
+</resources>
